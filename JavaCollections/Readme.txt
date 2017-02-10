@@ -16,6 +16,6 @@ Map	 :
 
 ObjectOdering:
 	 :  Comparable
-	 :	Comparator
+	 :  Comparator
 
 
