@@ -3,7 +3,7 @@
 // max(aj-ai) such that i<j
 //updated
 
-public class StockBuySellv1{
+public class MaximumDifference{
 
 	public static void main(String[] args){
 
