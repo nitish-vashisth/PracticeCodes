@@ -1,4 +1,4 @@
-// This is shows how StringBUilder Works in java
+// This shows how StringBUilder Works in java
 // StringBuilder Vs StringBUffers
 /*
 StringBuffer is the thread safe utility class to perform several operations on Strings. 
