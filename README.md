@@ -1,6 +1,6 @@
 # Leetcode Probelm Solved
 
-1 [search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- 1 [search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 2
 3
 4
